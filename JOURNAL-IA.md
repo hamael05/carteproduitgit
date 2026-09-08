@@ -1,0 +1,3 @@
+- Je garde la version IA. 
+- Car l'ajout de Row ne complexifie pas le code.
+- Pour le coté visuel, rassembler c'est info sur une meme ligne rend la navigation plus agreable.
